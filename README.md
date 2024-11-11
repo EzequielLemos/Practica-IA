@@ -62,24 +62,6 @@ git branch
 ```
 
 
-
-
-
-## Alumno 2
-Para clonar el repositorio, gracias a las extensiones de VSCode solo es necesario copiar el link del repositorio y pegarlo en la ventana de clonación.  
-Y ya que tengo extensiones de Git, puedo hacer un commit y un push directamente desde VSCode.  
-
-
-## PREGUNTA PUNTO 10
-
-Llega el jefe de tu equipo al despacho en 2 minutos, solo ha venido para ver las diferencias entre los dos códigos antes de subirlo al repositorio común. Así que busca rápido cómo ver las diferencias entre ramas. 
-
-```bash
-git diff ramaAlumno1..ramaAlumno2
-```
-Con este comando mostramos las diferencias entre ambas ramas.  
-Lo hemos logrado en menos de 2 minutos.
-
 ## Alumno 2
 Para clonar el repositorio, gracias a las extensiones de VSCode solo es necesario copiar el link del repositorio y pegarlo en la ventana de clonación.
 Y ya que tengo extensiones de Git, puedo hacer un commit y un push directamente desde VSCode.
@@ -140,12 +122,12 @@ Añadimos el archivo Cliente.java y lo subimos a la ramaAlumno2, según lo pone 
 
 ## PUNTO 10
 ### DIFERENCIAS ENTRE RAMAS
-Para ver las diferencias entre las ramas, primero nos cambiamos a la rama master con 
+Para ver las diferencias entre las ramas, primero nos cambiamos a la rama master y posteriormente
 ```bash
-git diff ramaAlumno1:src/jungle/Cliente.java ramaAlumno2:src/jungle/Cliente.java
+git diff ramaAlumno1..ramaAlumno2
 ```
-
-Pero como decía en la práctica de NO subirlo al repositorio, no nos saldrán las diferencias.
+Con este comando mostramos las diferencias entre ambas ramas.  
+Lo hemos logrado en menos de 2 minutos.
 
 ## Punto 11
 ### ¿habéis podido realizar los pasos de este ejercicio de forma idéntica? En caso negativo, explicar cuál creéis que el motivo por el que no habéis podido replicar los mismos comandos, con excepción de los nombres de las ramas personales.
