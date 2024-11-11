@@ -146,3 +146,7 @@ git diff ramaAlumno1:src/jungle/Cliente.java ramaAlumno2:src/jungle/Cliente.java
 ```
 
 Pero como decía en la práctica de NO subirlo al repositorio, no nos saldrán las diferencias.
+
+## Punto 11
+### ¿habéis podido realizar los pasos de este ejercicio de forma idéntica? En caso negativo, explicar cuál creéis que el motivo por el que no habéis podido replicar los mismos comandos, con excepción de los nombres de las ramas personales.
+Sí hemos podido aunque lo hemos hecho por separado, Violeta (alumno2) hizo su merge y luego Ezequiel (alumno1) hizo el suyo. Así no nos solapamos en ningún momento.
