@@ -5,10 +5,8 @@ import java.util.Vector;
 public class Almacen_cli 
 { 
  private Vector<Cliente> vec = new Vector<Cliente>(); 
- private Cliente c1 = new Cliente("32074097L","Don Bartolome Mendez 
- Zuloaga","01/04/1998","H","B+"); 
- private Cliente c2 = new Cliente("32094058k","Cristiano Ronaldo Dos Santos 
- Aveiro","02/04/1999","H","A-"); 
+ private Cliente c1 = new Cliente("32074097L","Don Bartolome Mendez  Zuloaga","01/04/1998","H","B+"); 
+ private Cliente c2 = new Cliente("32094058k","Cristiano Ronaldo Dos Santos Aveiro","02/04/1999","H","A-"); 
  public Almacen_cli() 
  { 
   this.vec.add(c1); 
