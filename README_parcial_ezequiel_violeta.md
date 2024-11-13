@@ -213,8 +213,5 @@ Violeta hizo el merge y las modificaciones pertinentes del archivo README.md.
 No nos han pedido en ningun momento a ninguno de los dos que pongamos credenciales, por lo que no hemos tenido que hacerlo.
 
 ## PUNTO 13
-### Unión de dos nuevos alumnos
-Alumno 1 -> Marta Jones González
-Alumno 2 -> Pablo del Valle Davoodzadeh
-Alumno 3 -> Ezequiel Lemos Cárdenas
-Alumno 4 -> Violeta Ai Naharro Zaldívar
+### Entrega parcial
+No hemos tenido ningún problema en la entrega parcial, hemos seguido los pasos y hemos podido hacerlo sin problemas.
