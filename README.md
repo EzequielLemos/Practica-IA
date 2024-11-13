@@ -131,5 +131,5 @@ Lo hemos logrado en menos de 2 minutos.
 
 ## Punto 11
 ### ¿habéis podido realizar los pasos de este ejercicio de forma idéntica? En caso negativo, explicar cuál creéis que el motivo por el que no habéis podido replicar los mismos comandos, con excepción de los nombres de las ramas personales.
-Violeta -> Sí hemos podido aunque lo hemos hecho por separado, Violeta (alumno2) hizo su merge y luego Ezequiel (alumno1) hizo el suyo. Así no nos solapamos en ningún momento. Ezequiel hará los cambios pertinentes en el archivo Cliente.java, Violeta hizo el merge y las modificaciones pertinentes del archivo README.md.
-Ezequiel -> 
+Sí hemos podido aunque lo hemos hecho por separado, Violeta (alumno2) hizo su merge y luego Ezequiel (alumno1) hizo el suyo. Así no nos solapamos en ningún momento. Ezequiel hará los cambios pertinentes en el archivo Almacen_cli.java, Violeta hizo el merge y las modificaciones pertinentes del archivo README.md.
+
